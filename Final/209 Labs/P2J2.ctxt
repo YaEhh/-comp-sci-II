@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=P2J2
+comment1.params=n
+comment1.target=int\ recaman(int)
+comment2.params=text
+comment2.target=java.lang.String\ removeDuplicates(java.lang.String)
+comment3.params=text
+comment3.target=java.lang.String\ uniqueCharacters(java.lang.String)
+comment4.params=n\ rooks
+comment4.target=int\ countSafeSquaresRooks(int,\ boolean[][])
+numComments=5

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MapCompare
+comment1.params=mapCounter
+comment1.target=MapCompare(java.util.Map)
+comment2.params=first\ second
+comment2.target=int\ compare(java.lang.Integer,\ java.lang.Integer)
+numComments=3
